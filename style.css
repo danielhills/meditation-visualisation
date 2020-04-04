@@ -1,0 +1,31 @@
+body{
+  font-family: 'Courier';
+}
+
+h2 {
+  text-align: center;
+  color: #34495E;
+}
+
+.bar {
+ fill: #D35400;
+}
+
+.bar:hover {
+  fill: #34495E;
+}
+
+.tooltip {
+  position      : absolute;
+  text-align    : center;
+  max-width     : 250px;
+  max-height    : 30px;
+  font-size     : 12px;
+  padding       : 8px;
+  border        : none;
+  border-radius : 8px;
+  margin-top    : -30px;
+  background    : black;
+  color         : white;
+  pointer-events: none;
+}
