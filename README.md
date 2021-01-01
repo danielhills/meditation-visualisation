@@ -1,11 +1,13 @@
 # Meditation Visualisation
 
+Visualising my attempt at meditating everyday in 2020 using d3 & Python.
+
 ![](heatmap.png)
 
 ![](barchart.png)
 
-![](bar-chart.png)
+## d3
 
-Visualising my attempt at meditating everyday in 2020 using d3 & Python.
+![](bar-chart.png)
 
 Run locally using: `python -m http.server`
